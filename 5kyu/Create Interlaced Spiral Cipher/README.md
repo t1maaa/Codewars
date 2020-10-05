@@ -20,6 +20,9 @@ The encode method should return the encoded message as a string
 
 The decode method should return the decoded message as a string with no trailing spaces
 
+## Technical Details
+Input will always be valid.
+
 ## Test Examples
 ```csharp
 string phrase1 = "Romani ite domum";
